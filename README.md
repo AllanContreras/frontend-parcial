@@ -29,8 +29,7 @@ El frontend sigue una estructura basada en **componentes reutilizables**, organi
 
  **src/**  
 ├── **components/** → Botones, formularios, tarjetas, modales, etc.  
-├──  **pages/** → Páginas como Inicio, Dashboard, Transacciones y Perfil.  
-├──  **services/** → Conexión con la API del backend usando Axios.  
+
 ├──  **context/** → Manejo de estado global con Context API.  
 ├──  **App.js** → Configuración de rutas y estructura de la app.  
 ├──  **index.js** → Punto de entrada del frontend.  
