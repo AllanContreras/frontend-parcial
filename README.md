@@ -17,4 +17,34 @@
 # ASI NOS QUEDA NUESTRA ESTRA ESTRUCTARA Y CLASES IMPLEMENTADAS 
 ![05](https://github.com/user-attachments/assets/6a94b686-c9cb-4359-9481-bdedff20f9a8)
 
+# Frontend - Sistema de Pagos
+
+Este es el frontend del sistema de pagos, desarrollado con **React.js**. Proporciona una interfaz intuitiva para que los usuarios gestionen sus transacciones.
+
+---
+
+## Arquitectura del Proyecto**
+
+El frontend sigue una estructura basada en **componentes reutilizables**, organizada de la siguiente manera:
+
+ **src/**  
+├── **components/** → Botones, formularios, tarjetas, modales, etc.  
+├──  **pages/** → Páginas como Inicio, Dashboard, Transacciones y Perfil.  
+├──  **services/** → Conexión con la API del backend usando Axios.  
+├──  **context/** → Manejo de estado global con Context API.  
+├──  **App.js** → Configuración de rutas y estructura de la app.  
+├──  **index.js** → Punto de entrada del frontend.  
+
+---
+
+## Tecnologías Utilizadas**
+
+- **React.js** - Biblioteca para construir interfaces de usuario.  
+- **React Router** - Para gestionar la navegación entre páginas.  
+- **Axios** - Para realizar solicitudes HTTP al backend.  
+- **Tailwind CSS** - Para un diseño moderno y responsivo.  
+- **React Hook Form** - Para manejar formularios y validaciones.  
+
+---
+
 
